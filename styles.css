@@ -5,7 +5,7 @@
     --gris-claro: #f5f7fa;
     --blanco: #ffffff;
     --gris-medio: #6D7685;
-    --azul: #2989d8;
+    --azul: #2989d8d8;
 }
 
 /* Reset y cajas */
@@ -193,7 +193,7 @@ footer p {
 
 .social-icons a {
     color: var(--blanco);
-    margin: 0 0 10px;
+    margin: 0 10px;
     text-decoration: none;
     font-size: 20px;
 }
